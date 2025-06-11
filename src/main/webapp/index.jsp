@@ -5,6 +5,6 @@
 </head>
 <body>
     <h1>Welcome to Maven.........Web Application</h1>
-    <a href="hello">Go to HelloServlet</a>
+    <a href="hello">Go to My  HelloServlet</a>
 </body>
 </html>
