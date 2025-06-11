@@ -9,6 +9,6 @@ public class HelloServlet extends HttpServlet {
         throws ServletException, IOException {
         response.setContentType("text/html");
         PrintWriter out = response.getWriter();
-        out.println("<h2>Hello from Maven Web App!</h2>");
+        out.println("<h2>Hello from  My............................... Maven WebApp!</h2>");
     }
 }
